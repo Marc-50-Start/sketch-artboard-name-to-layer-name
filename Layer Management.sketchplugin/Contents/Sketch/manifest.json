@@ -1,0 +1,25 @@
+{
+    "name" : "Layer Management",
+    "identifier" : "layer.management",
+    "version" : "1.0",
+    "description" : "Tools",
+    "authorEmail" : "marcusn98mm@gmail.com",
+    "author" : "Marcus Ng",
+
+    "commands" : [
+    {
+      "script" : "PrependArtboardNameAsLayerSubfolder.js",
+      "handler" : "PrependArtboardNameAsLayerSubfolder",
+      "shortcut" : "command alt b",
+      "name" : "Prepend Artboard Name As Layer Subfolder",
+      "identifier" : "layer.management.prependartboard"
+    },
+    {
+      "script" : "RemoveArtboardNameFromLayerSubfolder.js",
+      "handler" : "RemoveArtboardNameFromLayerSubfolder",
+      "shortcut" : "shift command alt b",
+      "name" : "Remove Artboard Name From Layer Subfolder",
+      "identifier" : "layer.management.removeartboard"
+    }
+  ],
+}
