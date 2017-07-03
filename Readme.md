@@ -1,6 +1,6 @@
 ### Sketch artboard name to layer name plugin
 
-This plugin is forked from preciousforever's repository, and is modified into a single "Layer Management" plugin which consists of code from the repository, modified and updated to work on the latest Sketch 45.
+This plugin is forked from preciousforever's repository, and is modified into a single "Layer Management" plugin which consists of code from the repository, modified and updated to work on the latest Sketch 45 (as of 3 July 2017).
 
 *Original description here:*
 
